@@ -6,3 +6,5 @@ Based on the research from ZScalar (https://www.zscaler.com/blogs/security-resea
 All the DNS telemetry is stored in zloader.csv.
 
 The IPv6 events are stored in zloader-ipv6.csv.
+
+This repo is public info supported by data from Open Source Context (oscontext.com). For more information about my automated high-fidelity threat feeds, please email sales@bambenekconsulting.com.
